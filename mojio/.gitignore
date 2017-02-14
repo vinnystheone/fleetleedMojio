@@ -1,0 +1,8 @@
+/.settings
+/vendor
+/composer.lock
+/.project
+/.buildpath
+deployment.xml
+deployment.properties
+composer.phar
